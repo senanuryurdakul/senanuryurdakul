@@ -1,45 +1,46 @@
-## Hi there 👋
-<h1 align="center">👩‍💻 Senanur Yurdakul</h1>
-
-<p align="center">
-  Yazılım geliştirme yolculuğumda her gün bir adım daha ileriye gidiyorum.  
-  Full Stack Web Development alanında projeler geliştiriyor, özellikle ASP.NET Core üzerine yoğunlaşıyorum.
-</p>
+<h1 align="center">👩‍💻 Hi, I'm Senanur Yurdakul</h1>
+<p align="center">.NET Developer | Passionate about building clean and functional applications</p>
 
 ---
 
-### 🚀 Hakkımda
+### 🧩 About Me
 
-- 🎯 Şu anda ASP.NET Core, Web API, ve Entity Framework Core üzerine çalışıyorum.  
-- 🧩 Gerçek projeler üzerinden öğrenmeyi ve uygulayarak gelişmeyi tercih ediyorum.
+I'm a software developer with a focus on .NET technologies.  
+Throughout my education and internship experiences, I've taken an active role in team projects and strengthened my analytical thinking and problem-solving skills.  
+I’m currently working on real-world applications using technologies like ASP.NET Core, Entity Framework, and SQL Server.
 
----
-
-### 💡 Neler Yapıyorum?
-
-- ASP.NET Core ile Web API'ler geliştiriyorum  
-- MVC mimarisiyle projeler oluşturuyorum  
-- SQL Server ile veri yönetimi yapıyorum  
-- Katmanlı mimari kullanarak kurumsal uygulamalara hazırlanıyorum
+I believe in lifelong learning and love turning what I learn into working applications. I actively share my work on GitHub to document my progress and contributions.
 
 ---
 
-### 🧰 Kullandığım Teknolojiler
+### 💼 What I’m Doing Now
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&l)
+- Developing Web APIs using ASP.NET Core  
+- Implementing database operations with Entity Framework Core and SQL Server  
+- Building desktop applications using Windows Forms  
+- Contributing to team projects and personal mini applications
 
-<!--
-**senanuryurdakul/senanuryurdakul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#, ASP.NET Core MVC & Web API  
+- Entity Framework Core, SQL Server  
+- JavaScript, HTML, CSS, Bootstrap  
+- Windows Forms  
+- Git, GitHub, Visual Studio  
+- Working knowledge of Patterns: Repository, UoW, SOLID, CQRS, DDD
+
+
+
+---
+
+### 📫 Contact
+
+- 📧 Email: senanuryurdakul0@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/senanur-yurdakul-8536b920a](https://linkedin.com/in/senanur-yurdakul-8536b920a)  
+
+
+
+> “Code is not just syntax – it’s a way of thinking, solving, and creating value.”
+
