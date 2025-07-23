@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Hi, I'm Senanur Yurdakul</h1>
-<p align="center">.NET Developer </p>
+<p align="center">Full Stack .NET Developer </p>
 
 ---
 
