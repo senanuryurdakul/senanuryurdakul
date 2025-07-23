@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Hi, I'm Senanur Yurdakul</h1>
-<p align="center">.NET Developer | Passionate about building clean and functional applications</p>
+<p align="center">.NET Developer </p>
 
 ---
 
